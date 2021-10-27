@@ -1,0 +1,25 @@
+Síntoma,Col,n (%),Col
+ ,2019 ,2020 ,p 
+Fiebre ,"1.027 (21,3) ","441 (26,5) ","<0,001 "
+Síntomas respiratorios ,820 (17) ,"269 (16,1) ","0,450 "
+Traumatismos (incluye quemadura/mordedura animal) ,"595 (12,3) ","253 (15,2) ","<0,005 "
+Dolor ,"706 (14,6) ","227 (13,6) ","0,275 "
+Síntomas digestivos (excluye dolor abdominal) ,"590 (12,2) ","81 (4,9) ","<0,001 "
+Exantema/lesión en piel (sin fiebre) ,"303 (6,2) ","56 (3,4) ","<0,001 "
+Síntomas neurológicos (excluye cefalea) ,"93 (1,9) ","52 (3,1) ","<0,005 "
+Bulto/inflamación localizada ,"91 (1,8) ","40 (2,4) ","0,225 "
+Alteraciones del comportamiento ,"124 (2,5) ","33 (2,0) ","0,175 "
+Ictericia ,"34 (0,7) ","33 (2,0) ","<0,001 "
+Cuerpo extraño (cualquier localización) ,"38 (0,7) ","28 (1,7) ","<0,002 "
+ORL (excluye catarro y dolor ORL) ,"62 (1,2) ","16 (1,0) ","0,275 "
+Sospecha de COVID ,0 (0) ,"14 (0,8) ",
+Apnea/atragantamiento/parada/RCP/ahogamiento ,"14 (0,2) ","9 (0,5) ","0,125 "
+Dispositivos (problemas) ,"18 (0,3) ","9 (0,5) ","0,375 "
+Malestar/astenia/decaimiento ,"10 (0,2) ","9 (0,5) ","<0,005 "
+Nefrología (excluye disuria) ,"45 (0,9) ","8 (0,5) ","0,075 "
+Reacción alérgica ,"22 (0,4) ","7 (0,4) ","0,825 "
+Problemas oftalmológicos ,"71 (1,4) ","6 (0,4) ","<0,001 "
+Intoxicación/ingesta sustancia (accidental) ,"21 (0,4) ","5 (0,3) ","0,425 "
+Infección (miscelánea) ,"22 (0,4) ","4 (0,2) ","0,225 "
+Otros ,"107 (2,2) ","66 (4,0) ","<0,001 "
+Total ,4.813 ,1.666 ,

@@ -1,0 +1,24 @@
+﻿"Año";"Periodo";"Gasto de los turistas extranjeros"
+"2013";"Agosto";"40.595,58"
+"2014";"Agosto";"43.550,66"
+"2015";"Agosto";"46.668,67"
+"2016";"Agosto";"52.951,85"
+"2017";"Agosto";"60.565,41"
+"2018";"Agosto";"62.142,29"
+"2019";"Agosto";"64.015,29"
+"2020";"Agosto";"16.811,78"
+"2021";"Agosto";"16.898,29"
+;;
+;;
+"Métrica":"Gasto de los turistas extranjeros"
+"Fuente":"INE"
+"Clasificación":""
+"Unidad":"Gasto total de los turistas"
+"Escala":"Millones"
+"EscalaFactorPotencia10":"6"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/gasto-turistas/c0c876a5-0ef7-43eb-93fe-b123ae9a0e6f"
+"Titulo":"Evolución del gasto total acumulado de los turistas extranjeros en España"
+"Subtitulo":""
