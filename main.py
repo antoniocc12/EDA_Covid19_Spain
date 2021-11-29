@@ -1,5 +1,3 @@
-# pip install streamlit y Pillow
-# importar librerías
 import streamlit as st
 import utils.funciones as fc
 
